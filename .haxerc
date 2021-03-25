@@ -1,2 +1,3 @@
 export HAXE_VERSION=4.1.5
-export NEKO_VERSION=2.4.0
+export LD_LIBRARY_PATH=/usr/lib/neko
+haxelib install xyz
